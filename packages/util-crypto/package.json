@@ -8,9 +8,6 @@
     "./detectPackage.js",
     "./detectPackage.cjs"
   ],
-  "engines": {
-    "node": ">=14.0.0"
-  },
   "author": "Jaco Greeff <jacogr@gmail.com>",
   "maintainers": [],
   "contributors": [],
